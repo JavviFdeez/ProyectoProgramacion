@@ -1,6 +1,7 @@
 import java.util.List;
 // Comentario
 // Comentario2
+// Comentario3
 public class Hotel {
     private int id; // Identificador único del hotel
     private String nombre; // Nombre del hotel
